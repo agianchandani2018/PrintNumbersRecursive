@@ -1,7 +1,7 @@
 /**
 * @author Ami Gianchandani
-*
-*
+* This is a project that prints integers from 0 - n
+* each on a separate line
 */
 
 
@@ -40,7 +40,7 @@ public class PrintNumbersRecursive
 	* @param n the largest integer printed on the screen.
 	*/	
 
-	}
+	//}
 	public static void printNumRec (int n)
 	{
 		if (n > 0)
